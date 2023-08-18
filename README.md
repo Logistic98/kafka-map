@@ -6,7 +6,7 @@ Add wings to programming and install navigation to `kafka`。
 
 ## Introduction
 
-`kafka-map` is a `kafka` visualization tool developed using `Java11` and `React`.
+`kafka-map` is a `kafka` visualization tool developed using `Java17` and `React`.
 
 Supported features:
 
@@ -84,7 +84,7 @@ Developers wishing to use `kafka-map` within a corporate network are advised to 
 
 ## Required
 
-- Java11 or higher
+- Java17 or higher
 - Apache Kafka 1.1.0 or higher
 
 ## install by docker
